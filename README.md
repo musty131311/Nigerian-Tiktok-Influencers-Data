@@ -1,2 +1,2 @@
 # Nigerian-Tiktok-Influencers-Data
-usernames from a manually compiled list of 200 top Nigerian TikTok influencers, ranked by follower count in April 202
+This is for research purpose only, usernames from a manually compiled list of 200 top Nigerian TikTok influencers, ranked by follower count in April 2025.
